@@ -1,0 +1,3 @@
+/Users/malayashekhar/Desktop/sfml_template_cmake/cmake-build-debug/CMakeFiles/sfml_project_name.dir
+/Users/malayashekhar/Desktop/sfml_template_cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/malayashekhar/Desktop/sfml_template_cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
